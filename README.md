@@ -24,7 +24,7 @@ conda activate myenv
     vscode extension: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
   </li>
   <li>
-    CLI: type `jupyter` in miniconda command prompt
+    CLI: type `jupyter lab` in miniconda command prompt
   </li>
 </ul>
 
